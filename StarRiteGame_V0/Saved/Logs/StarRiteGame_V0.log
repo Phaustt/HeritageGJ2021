@@ -1749,3 +1749,1269 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.21-16.54.17:307][476]AssetCheck: New page: Asset Save: Map_Begining
 [2021.11.21-16.54.17:307][476]LogContentValidation: Display: Validating World /Game/Maps/Map_Begining.Map_Begining
 [2021.11.21-16.54.18:715][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.11.21-16.54.54:509][981]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.21-16.55.32:930][205]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.21-16.55.32:937][205]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.21-16.55.34:738][306]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.11.21-16.55.39:314][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.21-16.55.44:266][560]LogMainFrame: Project does not require temp target
+[2021.11.21-16.55.44:268][560]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game-Win64-Shipping.target
+[2021.11.21-16.55.44:606][560]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.11.21-16.55.44:711][564]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=D:/_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/StarRiteGame_V0.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=D:/_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/StarRiteGame_V0.uproject -cook -stage -archive -archivedirectory=C:/Users/clair/OneDrive/Bureau/StarRite_MemoriesOfASpirit -package -ue4exe=D:\EpicStoreLibrary\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Shipping -utf8output
+[2021.11.21-16.55.45:332][599]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\StarRiteGame_V0.uproject
+[2021.11.21-16.55.45:650][618]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.11.21-16.55.45:667][619]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\StarRiteGame_V0.uproject
+[2021.11.21-16.55.45:667][619]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\EpicStoreLibrary\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2021.11.21-17.55.45.txt
+[2021.11.21-16.55.45:667][619]UATHelper: Packaging (Windows (64-bit)): Running: D:\EpicStoreLibrary\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\StarRiteGame_V0.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog=D:\EpicStoreLibrary\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2021.11.21-17.55.45.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.11.21-16.55.46:170][649]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2021.11.21-16.55.46:170][649]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2021.11.21-16.55.46:170][649]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: StarRiteGame_V0
+[2021.11.21-16.55.46:668][678]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2021.11.21-16.55.47:301][716]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17018535936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.21-16.55.47:821][747]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.21-16.55.47:856][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.21-16.55.47:857][749]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.21-16.55.47:888][751]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.21-16.55.47:888][751]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.21-16.55.47:888][751]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.21-16.55.47:906][752]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.21-16.55.47:906][752]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.21-16.55.47:922][753]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.21-16.55.47:923][753]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.21-16.55.47:942][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.21-16.55.47:942][754]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.21-16.55.47:973][756]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.21-16.55.47:973][756]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.21-16.55.47:989][757]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.21-16.55.48:006][758]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.21-16.55.48:006][758]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.21-16.55.48:023][759]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.21-16.55.48:039][760]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.21-16.55.48:039][760]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.21-16.55.48:039][760]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.21-16.55.48:056][761]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.21-16.55.48:056][761]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.21-16.55.48:072][762]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.21-16.55.48:072][762]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.11.21-16.55.48:089][763]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.21-16.55.48:125][765]UATHelper: Packaging (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.21-16.55.48:405][782]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.21-16.55.49:126][825]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.21-16.55.49:269][833]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/clair/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.21-16.55.49:300][835]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.21-16.55.49:300][835]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/clair/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=712.57MBs, RandomWriteSpeed=116.63MBs. Assigned SpeedClass 'Local'
+[2021.11.21-16.55.52:038][929]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.21-16.55.52:038][929]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.21-16.55.52:715][931]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.21-16.55.52:715][931]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.11.21-16.55.52:715][931]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.11.21-16.55.52:715][931]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.11.21-16.55.52:715][931]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2021.11.21-16.55.52:715][931]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.11.21-16.55.52:716][931]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.009 seconds for platforms WindowsNoEditor
+[2021.11.21-16.55.54:066][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.11.21-16.55.54:066][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2021.11.21-16.55.54:066][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.11.21-16.55.54:066][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2021.11.21-16.55.54:066][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2021.11.21-16.55.54:066][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2021.11.21-16.55.54:066][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 324 Total 324
+[2021.11.21-16.55.54:067][935]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=219, VirtualMemory=512MiB
+[2021.11.21-16.55.55:732][939]UATHelper: Packaging (Windows (64-bit)):   LogClass: Warning: Type mismatch in RenderOpacity of WBP_Start_C - Previous (StructProperty) Current(FloatProperty) for package:  ../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/WBP_Start.uasset
+[2021.11.21-16.55.55:732][939]PackagingResults: Warning: Type mismatch in RenderOpacity of WBP_Start_C - Previous (StructProperty) Current(FloatProperty) for package:  ../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/WBP_Start.uasset
+[2021.11.21-16.55.57:422][945]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 216 Packages Remain 410 Total 626
+[2021.11.21-16.55.58:104][947]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.11.21-16.55.59:118][950]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 516 Packages Remain 123 Total 639
+[2021.11.21-16.56.01:470][957]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 623 Packages Remain 8 Total 631
+[2021.11.21-16.56.04:817][967]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 630 Packages Remain 1 Total 631
+[2021.11.21-16.56.05:817][970]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 631 Packages Remain 0 Total 631
+[2021.11.21-16.56.05:817][970]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=644, VirtualMemory=1777MiB
+[2021.11.21-16.56.05:817][970]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.11.21-16.56.06:483][972]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.11.21-16.56.06:817][973]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.11.21-16.56.06:817][973]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.11.21-16.56.06:817][973]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.11.21-16.56.06:817][973]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.11.21-16.56.07:491][975]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2021.11.21-16.56.07:832][976]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 666, size is 267.09kb
+[2021.11.21-16.56.07:832][976]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'StarRiteGame_V0' (PCD3D_SM5) Stats:
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 80, Unique Shadermaps: 67 (83.75%)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 2315, Unique Shaders: 1837 (79.35%)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 4.64mb, Unique Shaders Size: 3.84mb (82.74%)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 17
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     26, 16, 11, 9, 9, 9, 9, 9, 8, 7
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Shaders/PCD3D_SM5/ShaderDebug-StarRiteGame_V0-PCD3D_SM5/Dump.txt'
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 8.098449s total time 16.056694
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 2501 MiB Peak Used physical 2418 MiB
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.009s (1)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.206s (1)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.001s (1)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 8.085s (248837)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.011s (498473)
+[2021.11.21-16.56.08:492][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 4.733s (631)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 3.204s (24)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.088s (64)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.742s (627)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.742s (567)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 2.204s (631)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 2.178s (631)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.007s (631)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.006s (616)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.011s (631)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.113s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.031s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.014s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 1.868s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.175s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.582s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.131s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.505s (1)
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.11.21-16.56.08:493][978]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.000904s to verify the EDL loading graph.
+[2021.11.21-16.56.09:166][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000025
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.022207
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=260
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=118
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=442
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=5.335965
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=307
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=358
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=402
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=631
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=2.004421
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.479717
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.081099
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000375
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.002997
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.009570
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000516
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.267537
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.368464
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.470196
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=1060.106979
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=23.096367
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=6.497247
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=16.070082
+[2021.11.21-16.56.09:167][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.556280
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000029
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=11.312162
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=4.733529
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.203728
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.830249
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.279293
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.037634
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.047679
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.007390
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      1924
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      1937
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.993289
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.589055
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.404233
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.006711
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         1
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         1
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             3.37                   0.00             0        951.85
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraScript                                   1.14                   1.14             0          1.95
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.29                   0.29             0          7.29
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.22                   0.22             0         18.15
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.13                   0.13             0          9.17
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LandscapeCollision (Heightfield)                0.06                   0.06             0          0.51
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.04                   0.04             0         17.68
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.31
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.01                   0.01             0          0.37
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          1.02
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          3.07
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.00                   0.00             0          0.00
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             1         50.95
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2021.11.21-16.56.09:168][980]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2021.11.21-16.56.09:500][981]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogClass: Warning: Type mismatch in RenderOpacity of WBP_Start_C - Previous (StructProperty) Current(FloatProperty) for package:  ../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/WBP_Start.uasset
+[2021.11.21-16.56.09:500][981]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.11.21-16.56.09:501][981]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 1 warning(s)
+[2021.11.21-16.56.09:501][981]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.11.21-16.56.09:501][981]UATHelper: Packaging (Windows (64-bit)):   
+[2021.11.21-16.56.09:501][981]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  16.89 seconds
+[2021.11.21-16.56.10:507][984]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.21-16.56.10:507][984]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.11.21-16.56.10:507][984]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.11.21-16.56.10:507][984]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.21-16.56.10:507][984]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2021.11.21-16.56.11:183][986]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.11.21-16.56.11:517][987]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.11.21-16.56.16:027][ 28]UATHelper: Packaging (Windows (64-bit)): Took 30,3644956s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.11.21-16.56.16:043][ 29]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.11.21-16.56.16:095][ 32]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.11.21-16.56.16:444][ 53]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\BaseEditor.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\BaseLightmass.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\ConsoleVariables.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\Category.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\Editor.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\Engine.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2021.11.21-16.56.16:728][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2021.11.21-16.56.16:729][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2021.11.21-16.56.16:729][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2021.11.21-16.56.16:729][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2021.11.21-16.56.16:729][ 70]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\EpicStoreLibrary\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2021.11.21-16.56.16:744][ 71]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Config\DefaultEditor.ini
+[2021.11.21-16.56.16:744][ 71]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.11.21-16.56.16:844][ 77]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Saved\StagedBuilds\WindowsNoEditor
+[2021.11.21-16.56.16:995][ 86]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.11.21-16.56.17:211][ 99]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.11.21-16.56.27:258][393]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2021.11.21-16.56.37:219][463]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2021.11.21-16.56.47:321][737]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)): Output from: D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\StarRiteGame_V0.uproject D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Saved\StagedBuilds\WindowsNoEditor\StarRiteGame_V0\Content\Paks\StarRiteGame_V0-WindowsNoEditor.pak -create="C:\Users\clair\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+EpicStoreLibrary+UE_4.27\PakList_StarRiteGame_V0-WindowsNoEditor.txt" -cryptokeys=D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Saved\Cooked\WindowsNoEditor\StarRiteGame_V0\Metadata\Crypto.json -secondaryOrder=D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows -compressionformats=Oodle -compressmethod=Kraken -compresslevel=5  -multiprocess -abslog="C:\Users\clair\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+EpicStoreLibrary+UE_4.27\UnrealPak-StarRiteGame_V0-WindowsNoEditor-2021.11.21-17.56.17.txt" -compressionblocksize=256KB
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   OodleDataCompression: Display: Oodle v2.9.0 initializing with method=Kraken, level=5=Optimal1
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\clair\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+EpicStoreLibrary+UE_4.27\PakList_StarRiteGame_V0-WindowsNoEditor.txt
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2463 entries to add to pak file.
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 2463 files in 0.01s.
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Saved\StagedBuilds\WindowsNoEditor\StarRiteGame_V0\Content\Paks\StarRiteGame_V0-WindowsNoEditor.pak.
+[2021.11.21-16.56.53:989][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/clair/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 0 [Oodle] : 982 files, 1121264285 -> 67350937 bytes
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 1 [Zlib] : 62 files, 3506375 -> 1159369 bytes
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 2 [None] : 1419 files, 10579907 -> 10579907 bytes
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2463 files, 80432674 bytes total, time 35.15s.
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 55314 bytes
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 57036 bytes
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 87484 bytes
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 6.09% of original size. Compressed Size 68510306 bytes, Original Size 1124770660 bytes.
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 35.241646 seconds
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.11.21-16.56.53:990][951]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: D:\_Game_projects\Unreal\HeritageGJ2021\StarRiteGame_V0\Saved\StagedBuilds\WindowsNoEditor
+[2021.11.21-16.56.56:790][119]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.11.21-16.56.56:808][120]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.11.21-16.56.56:808][120]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.11.21-16.56.56:808][120]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.11.21-16.56.56:808][120]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/clair/OneDrive/Bureau/StarRite_MemoriesOfASpirit
+[2021.11.21-16.56.56:893][125]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.11.21-16.56.56:893][125]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.11.21-16.56.56:893][125]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2021.11.21-17.00.06:448][138]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2021.11.21-17.00.06:569][138]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.00.06:569][138]Cmd: MAP LOAD FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.21-17.00.06:569][138]LightingResults: New page: Lighting Build
+[2021.11.21-17.00.06:569][138]LoadErrors: New page: Loading map: Map_World.umap
+[2021.11.21-17.00.06:601][138]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.00.06:601][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.00.06:638][138]LogWorld: UWorld::CleanupWorld for Map_Begining, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.00.06:638][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.00.06:638][138]MapCheck: New page: Map Check
+[2021.11.21-17.00.06:638][138]LightingResults: New page: Lighting Build
+[2021.11.21-17.00.06:665][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-17.00.06:695][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.11.21-17.00.06:697][138]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_World'.
+[2021.11.21-17.00.06:753][138]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.21-17.00.06:753][138]LogAIModule: Creating AISystem for world Map_World
+[2021.11.21-17.00.06:804][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.21-17.00.06:811][138]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.21-17.00.06:811][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2021.11.21-17.00.06:811][138]LogFileHelpers: Loading map 'Map_World' took 0.242
+[2021.11.21-17.00.08:772][242]LogEditorViewport: Clicking on Actor (LMB): BP_TextIndiceTrigger_C (BP_TextIndiceTrigger)
+[2021.11.21-17.00.19:460][861]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.21-17.00.39:115][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-17.00.39:146][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.11.21-17.00.39:282][ 32]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World1295D0F441CD2A74A541DC89B57EA80D.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap'
+[2021.11.21-17.00.39:291][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World_BuiltData" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset" SILENT=true
+[2021.11.21-17.00.39:560][ 32]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_BuiltData541085AA4B0D1AAEE6CBD5924EC8F789.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset'
+[2021.11.21-17.00.39:584][ 32]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-17.00.39:584][ 32]LogContentValidation: Display: Validating World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.00.39:584][ 32]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_World_BuiltData.Map_World_BuiltData
+[2021.11.21-17.15.31:655][360]LogEditorViewport: Clicking on Actor (LMB): BP_CampFire_C (BP_CampFire)
+[2021.11.21-17.15.32:399][403]LogEditorViewport: Clicking on Actor (context menu): BP_CampFire_C (BP_CampFire)
+[2021.11.21-17.15.34:800][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dev/Caleb/Detection/BP_CampFire.BP_CampFire
+[2021.11.21-17.15.53:005][570]BlueprintLog: New page: Compile BP_CampFire
+[2021.11.21-17.15.53:080][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.21-17.15.53:146][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev/Caleb/Detection/BP_CampFire" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_CampFire.uasset" SILENT=true
+[2021.11.21-17.15.53:170][570]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_CampFireD4D188C44E275090FA449798D8EF415A.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_CampFire.uasset'
+[2021.11.21-17.15.53:189][570]AssetCheck: New page: Asset Save: BP_CampFire
+[2021.11.21-17.15.53:189][570]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_CampFire.BP_CampFire
+[2021.11.21-17.16.29:132][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.11.21-17.16.29:270][655]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_Auto142BCCF914F98886C8FA594B593AF82B7.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Autosaves/Game/Maps/Map_World_Auto1.umap'
+[2021.11.21-17.16.29:427][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_World' took 0.358
+[2021.11.21-17.16.29:427][655]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.358
+[2021.11.21-17.17.21:808][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dev/Caleb/Detection/BP_Pot.BP_Pot
+[2021.11.21-17.17.29:301][150]BlueprintLog: New page: Compile BP_Pot
+[2021.11.21-17.17.29:380][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.11.21-17.17.29:454][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev/Caleb/Detection/BP_Pot" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Pot.uasset" SILENT=true
+[2021.11.21-17.17.29:502][150]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_Pot8A1087064200C93073389F9964227100.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Pot.uasset'
+[2021.11.21-17.17.29:516][150]AssetCheck: New page: Asset Save: BP_Pot
+[2021.11.21-17.17.29:516][150]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_Pot.BP_Pot
+[2021.11.21-17.17.32:337][301]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dev/Caleb/Detection/BP_Four.BP_Four
+[2021.11.21-17.17.44:123][949]BlueprintLog: New page: Compile BP_Four
+[2021.11.21-17.17.44:196][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.11.21-17.17.44:267][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev/Caleb/Detection/BP_Four" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Four.uasset" SILENT=true
+[2021.11.21-17.17.44:297][949]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_Four16FBB49B4BC80EFF1711A59B9F8BB562.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Four.uasset'
+[2021.11.21-17.17.44:317][949]AssetCheck: New page: Asset Save: BP_Four
+[2021.11.21-17.17.44:317][949]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_Four.BP_Four
+[2021.11.21-17.17.49:904][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-17.17.49:946][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.11.21-17.17.50:081][275]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World974C520A44546D583AD2FFA5867F181A.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap'
+[2021.11.21-17.17.50:089][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World_BuiltData" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset" SILENT=true
+[2021.11.21-17.17.50:281][275]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_BuiltDataB77106B34FBF102E744DD6BE0E1F3519.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset'
+[2021.11.21-17.17.50:296][275]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-17.17.50:297][275]LogContentValidation: Display: Validating World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.17.50:297][275]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_World_BuiltData.Map_World_BuiltData
+[2021.11.21-17.17.55:581][580]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.21-17.17.55:596][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.21-17.17.55:596][580]PIE: New page: PIE session: Map_World (21 nov. 2021 à 19:17:55)
+[2021.11.21-17.17.55:596][580]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_World
+[2021.11.21-17.17.55:637][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040769s)
+[2021.11.21-17.17.55:638][580]LogAIModule: Creating AISystem for world Map_World
+[2021.11.21-17.17.55:638][580]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2021.11.21-17.17.55:638][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_World.Map_World to /Game/Maps/UEDPIE_0_Map_World.Map_World (0.041975s)
+[2021.11.21-17.17.55:679][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.21-17.17.55:679][580]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.21-17.17.55:679][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-17.17.55:679][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-17.17.55:679][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-17.17.55:679][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-17.17.55:679][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-17.17.55:680][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-17.17.55:680][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-17.17.55:680][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-17.17.55:680][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-17.17.55:680][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-17.17.55:680][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-17.17.55:680][580]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-17.17.55:688][580]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-17.17.55:688][580]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-17.17.55:732][580]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.11.21-17.17.55:732][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-17.17.55:732][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-17.17.55:732][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-17.17.55:732][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-17.17.55:732][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-17.17.55:732][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.21-17.17.55:736][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-17.17.55:737][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-17.17.55:737][580]LogInit: FAudioDevice initialized.
+[2021.11.21-17.17.55:737][580]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_World'.
+[2021.11.21-17.17.55:757][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-17.17.55:758][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.21-17.17.55:774][580]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_World.Map_World up for play (max tick rate 60) at 2021.11.21-18.17.55
+[2021.11.21-17.17.55:780][580]LogWorld: Bringing up level for play took: 0.020889
+[2021.11.21-17.17.55:780][580]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.11.21-17.17.55:788][580]PIE: Server logged in
+[2021.11.21-17.17.55:789][580]PIE: Play in editor total start time 0,2 seconds.
+[2021.11.21-17.17.55:941][581]LogRenderer: Reallocating scene render targets to support 1528x488 Format 10 NumSamples 1 (Frame:1).
+[2021.11.21-17.18.10:289][408]LogBlueprintUserMessages: [None] Hello
+[2021.11.21-17.18.25:336][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'QTESequence' of length 0 in '/Game/UnrealContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2021.11.21-17.18.25:336][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'QTESequence' of length 0 in '/Game/UnrealContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2021.11.21-17.18.25:336][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'QTESequence' of length 0 in '/Game/UnrealContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2021.11.21-17.18.25:336][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'QTESequence' of length 0 in '/Game/UnrealContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2021.11.21-17.18.25:343][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'QTESequence' of length 0 in '/Game/UnrealContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2021.11.21-17.18.31:358][578]LogBlueprintUserMessages: [None] Hello
+[2021.11.21-17.18.39:397][ 34]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.40:398][ 92]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.41:415][152]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.42:417][211]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.43:425][269]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.44:426][324]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.45:425][381]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.46:435][439]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.47:449][498]LogBlueprintUserMessages: [BP_Yam_2] cooked
+[2021.11.21-17.18.47:883][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-17.18.47:883][521]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_World
+[2021.11.21-17.18.47:884][521]LogSlate: Window 'Memories of a Spirit Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.21-17.18.47:893][521]LogWorld: UWorld::CleanupWorld for Map_World, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.18.47:895][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.18.47:917][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-17.18.47:938][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.18.48:008][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-17.18.48:008][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.18.48:010][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.18.48:057][521]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2021.11.21-17.18.48:099][522]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.11.21-17.19.07:624][633]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.19.24:682][648]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.19.24:682][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.19.24:691][648]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.19.24:691][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.22.06:615][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.11.21-17.22.06:671][769]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_Begining.Map_Begining
+[2021.11.21-17.22.06:671][769]Cmd: MAP LOAD FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_Begining.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.21-17.22.06:671][769]LightingResults: New page: Lighting Build
+[2021.11.21-17.22.06:671][769]LoadErrors: New page: Loading map: Map_Begining.umap
+[2021.11.21-17.22.06:676][769]LogWorld: UWorld::CleanupWorld for Map_World, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.22.06:676][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.22.06:676][769]MapCheck: New page: Map Check
+[2021.11.21-17.22.06:676][769]LightingResults: New page: Lighting Build
+[2021.11.21-17.22.06:710][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-17.22.06:720][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.11.21-17.22.06:722][769]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Begining'.
+[2021.11.21-17.22.06:729][769]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.21-17.22.06:729][769]LogAIModule: Creating AISystem for world Map_Begining
+[2021.11.21-17.22.06:766][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.21-17.22.06:773][769]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.21-17.22.06:774][769]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,1ms to complete.
+[2021.11.21-17.22.06:774][769]LogFileHelpers: Loading map 'Map_Begining' took 0.102
+[2021.11.21-17.22.17:634][410]LogRenderer: Reallocating scene render targets to support 1528x520 Format 10 NumSamples 1 (Frame:1).
+[2021.11.21-17.22.30:977][200]BlueprintLog: New page: Compile BP_Mask
+[2021.11.21-17.22.31:060][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.11.21-17.22.31:140][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev/Caleb/Detection/BP_Mask" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Mask.uasset" SILENT=true
+[2021.11.21-17.22.31:188][200]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_MaskACF5417A4004A7E56A323BA56E49FDC0.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Mask.uasset'
+[2021.11.21-17.22.31:207][200]AssetCheck: New page: Asset Save: BP_Mask
+[2021.11.21-17.22.31:207][200]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_Mask.BP_Mask
+[2021.11.21-17.23.44:049][790]BlueprintLog: New page: Compile BP_Mask
+[2021.11.21-17.23.44:140][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.11.21-17.24.01:675][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.21-17.24.05:389][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dev/Caleb/Detection/BP_HutteBegin.BP_HutteBegin
+[2021.11.21-17.24.15:479][586]BlueprintLog: New page: Compile BP_HutteBegin
+[2021.11.21-17.24.15:563][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.11.21-17.24.16:145][586]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_HutteBeginC5C11371403CB01C34361BAFC6C3D4A2.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_HutteBegin.uasset'
+[2021.11.21-17.24.16:187][586]AssetCheck: New page: Asset Save: BP_HutteBegin
+[2021.11.21-17.24.16:187][586]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_HutteBegin.BP_HutteBegin
+[2021.11.21-17.24.17:659][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.11.21-17.24.18:078][667]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_BeginingF29A0A7747539C667012DAAB6F0FCA75.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_Begining.umap'
+[2021.11.21-17.24.18:108][667]AssetCheck: New page: Asset Save: Map_Begining
+[2021.11.21-17.24.18:108][667]LogContentValidation: Display: Validating World /Game/Maps/Map_Begining.Map_Begining
+[2021.11.21-17.24.26:246][148]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Map_Begining.Map_Begining:PersistentLevel.Map_Begining
+[2021.11.21-17.24.49:739][522]BlueprintLog: New page: Compile BP_HutteBegin
+[2021.11.21-17.24.49:822][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.11.21-17.24.50:217][522]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_HutteBegin81DD1D824BA4A390E7CF4C91C173E77A.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_HutteBegin.uasset'
+[2021.11.21-17.24.50:231][522]AssetCheck: New page: Asset Save: BP_HutteBegin
+[2021.11.21-17.24.50:231][522]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_HutteBegin.BP_HutteBegin
+[2021.11.21-17.24.51:588][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.11.21-17.24.51:990][596]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_BeginingCB57C4904C90244110272ABE269A3514.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_Begining.umap'
+[2021.11.21-17.24.52:015][596]AssetCheck: New page: Asset Save: Map_Begining
+[2021.11.21-17.24.52:015][596]LogContentValidation: Display: Validating World /Game/Maps/Map_Begining.Map_Begining
+[2021.11.21-17.25.11:617][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.11.21-17.25.12:106][758]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_Begining221DCC654526A37EB6D286A7491002C9.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_Begining.umap'
+[2021.11.21-17.25.12:130][758]AssetCheck: New page: Asset Save: Map_Begining
+[2021.11.21-17.25.12:130][758]LogContentValidation: Display: Validating World /Game/Maps/Map_Begining.Map_Begining
+[2021.11.21-17.30.40:547][806]LogActorFactory: Actor Factory created Pillon
+[2021.11.21-17.30.53:467][557]LogActorFactory: Actor Factory created Pillon
+[2021.11.21-17.31.12:358][666]BlueprintLog: New page: Compile BP_Pot
+[2021.11.21-17.31.12:453][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.11.21-17.31.12:514][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev/Caleb/Detection/BP_Pot" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Pot.uasset" SILENT=true
+[2021.11.21-17.31.12:989][666]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_PotB78248E8485FC74DFD3D97ABCD0B9CFE.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_Pot.uasset'
+[2021.11.21-17.31.13:012][666]AssetCheck: New page: Asset Save: BP_Pot
+[2021.11.21-17.31.13:012][666]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_Pot.BP_Pot
+[2021.11.21-17.31.19:503][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.11.21-17.31.19:841][ 46]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_Begining7F2D292046EC500EA8FBA3BE0F316D72.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_Begining.umap'
+[2021.11.21-17.31.19:865][ 46]AssetCheck: New page: Asset Save: Map_Begining
+[2021.11.21-17.31.19:865][ 46]LogContentValidation: Display: Validating World /Game/Maps/Map_Begining.Map_Begining
+[2021.11.21-17.31.36:516][ 19]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.21-17.31.37:892][101]BlueprintLog: New page: Compile BP_HutteBegin
+[2021.11.21-17.31.37:971][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.11.21-17.31.38:314][101]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_HutteBegin8BCBF6C74B53F64FC3A23AA15A4ACA95.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_HutteBegin.uasset'
+[2021.11.21-17.31.38:329][101]AssetCheck: New page: Asset Save: BP_HutteBegin
+[2021.11.21-17.31.38:329][101]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_HutteBegin.BP_HutteBegin
+[2021.11.21-17.31.46:250][562]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.21-17.31.47:232][618]BlueprintLog: New page: Compile BP_HutteBegin
+[2021.11.21-17.31.47:315][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.11.21-17.31.47:596][618]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/BP_HutteBeginBBDB43CC43291F6089AB95BD51B229F6.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/Detection/BP_HutteBegin.uasset'
+[2021.11.21-17.31.47:610][618]AssetCheck: New page: Asset Save: BP_HutteBegin
+[2021.11.21-17.31.47:610][618]LogContentValidation: Display: Validating Blueprint /Game/Dev/Caleb/Detection/BP_HutteBegin.BP_HutteBegin
+[2021.11.21-17.31.48:810][684]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.11.21-17.31.49:187][684]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_BeginingDCF7C0BE4D05E106A70FCF9363EF4CED.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_Begining.umap'
+[2021.11.21-17.31.49:212][684]AssetCheck: New page: Asset Save: Map_Begining
+[2021.11.21-17.31.49:212][684]LogContentValidation: Display: Validating World /Game/Maps/Map_Begining.Map_Begining
+[2021.11.21-17.32.03:141][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.11.21-17.32.03:245][506]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.32.03:245][506]Cmd: MAP LOAD FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.21-17.32.03:246][506]LightingResults: New page: Lighting Build
+[2021.11.21-17.32.03:246][506]LoadErrors: New page: Loading map: Map_World.umap
+[2021.11.21-17.32.03:363][506]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.32.03:363][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.32.03:401][506]LogWorld: UWorld::CleanupWorld for Map_Begining, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.32.03:401][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.32.03:401][506]MapCheck: New page: Map Check
+[2021.11.21-17.32.03:401][506]LightingResults: New page: Lighting Build
+[2021.11.21-17.32.03:439][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-17.32.03:448][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.21-17.32.03:449][506]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_World'.
+[2021.11.21-17.32.03:497][506]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.21-17.32.03:497][506]LogAIModule: Creating AISystem for world Map_World
+[2021.11.21-17.32.03:550][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.11.21-17.32.03:655][506]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.21-17.32.03:658][506]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,314ms to complete.
+[2021.11.21-17.32.03:658][506]LogFileHelpers: Loading map 'Map_World' took 0.412
+[2021.11.21-17.32.07:466][725]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.32.08:271][772]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.32.08:960][813]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.32.09:496][845]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.32.29:407][984]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.21-17.32.49:260][ 49]Cmd: TRANSACTION UNDO
+[2021.11.21-17.32.49:260][ 49]LogEditorTransaction: Undo Set Rotation
+[2021.11.21-17.33.48:032][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-17.33.48:079][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.11.21-17.33.50:673][343]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World997C505B4D6B947B430C5CA5D3E0067F.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap'
+[2021.11.21-17.33.50:686][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World_BuiltData" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset" SILENT=true
+[2021.11.21-17.33.52:032][343]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_BuiltData8673A974409DAECF21B745864DD2178B.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset'
+[2021.11.21-17.33.52:063][343]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-17.33.52:063][343]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_World_BuiltData.Map_World_BuiltData
+[2021.11.21-17.33.52:063][343]LogContentValidation: Display: Validating World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.34.36:105][741]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.21-17.34.36:434][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.21-17.34.36:434][741]PIE: New page: PIE session: Map_World (21 nov. 2021 à 19:34:36)
+[2021.11.21-17.34.36:434][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_World
+[2021.11.21-17.34.36:474][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038979s)
+[2021.11.21-17.34.36:474][741]LogAIModule: Creating AISystem for world Map_World
+[2021.11.21-17.34.36:475][741]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2021.11.21-17.34.36:475][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_World.Map_World to /Game/Maps/UEDPIE_0_Map_World.Map_World (0.040212s)
+[2021.11.21-17.34.36:514][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.11.21-17.34.36:515][741]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.21-17.34.36:515][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-17.34.36:515][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-17.34.36:515][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-17.34.36:515][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-17.34.36:515][741]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-17.34.36:515][741]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-17.34.36:515][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-17.34.36:515][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-17.34.36:516][741]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-17.34.36:516][741]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-17.34.36:516][741]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-17.34.36:516][741]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-17.34.36:523][741]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-17.34.36:523][741]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-17.34.36:568][741]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.11.21-17.34.36:568][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-17.34.36:568][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-17.34.36:568][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-17.34.36:569][741]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-17.34.36:569][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-17.34.36:569][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.21-17.34.36:570][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-17.34.36:570][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-17.34.36:570][741]LogInit: FAudioDevice initialized.
+[2021.11.21-17.34.36:570][741]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map_World'.
+[2021.11.21-17.34.36:605][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-17.34.36:605][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.21-17.34.36:618][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_World.Map_World up for play (max tick rate 60) at 2021.11.21-18.34.36
+[2021.11.21-17.34.36:622][741]LogWorld: Bringing up level for play took: 0.016187
+[2021.11.21-17.34.36:623][741]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.11.21-17.34.36:629][741]PIE: Server logged in
+[2021.11.21-17.34.36:631][741]PIE: Play in editor total start time 0,204 seconds.
+[2021.11.21-17.35.17:362][ 55]LogBlueprintUserMessages: [None] Hello
+[2021.11.21-17.35.26:448][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-17.35.26:448][575]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_World
+[2021.11.21-17.35.26:449][575]LogSlate: Window 'Memories of a Spirit Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.21-17.35.26:456][575]LogWorld: UWorld::CleanupWorld for Map_World, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.35.26:460][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.35.26:476][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-17.35.26:494][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.35.26:556][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.35.26:560][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.35.26:622][575]LogUObjectHash: Compacting FUObjectHashTables data took   8.75ms
+[2021.11.21-17.35.26:664][576]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.11.21-17.35.33:340][955]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.21-17.35.33:355][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.21-17.35.33:355][955]PIE: New page: PIE session: Map_World (21 nov. 2021 à 19:35:33)
+[2021.11.21-17.35.33:356][955]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_World
+[2021.11.21-17.35.33:395][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039510s)
+[2021.11.21-17.35.33:396][955]LogAIModule: Creating AISystem for world Map_World
+[2021.11.21-17.35.33:397][955]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2021.11.21-17.35.33:397][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_World.Map_World to /Game/Maps/UEDPIE_0_Map_World.Map_World (0.040793s)
+[2021.11.21-17.35.33:434][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.11.21-17.35.33:435][955]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.11.21-17.35.33:435][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.21-17.35.33:435][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.21-17.35.33:435][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.21-17.35.33:435][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.21-17.35.33:435][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.21-17.35.33:435][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.21-17.35.33:435][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.21-17.35.33:435][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.21-17.35.33:436][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.21-17.35.33:436][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.21-17.35.33:436][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.21-17.35.33:436][955]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.21-17.35.33:443][955]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.21-17.35.33:443][955]LogAudioMixer: Display: 1: FrontRight
+[2021.11.21-17.35.33:476][955]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.11.21-17.35.33:476][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.21-17.35.33:476][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.21-17.35.33:476][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.21-17.35.33:477][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.21-17.35.33:477][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.21-17.35.33:477][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.21-17.35.33:478][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.21-17.35.33:478][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.21-17.35.33:478][955]LogInit: FAudioDevice initialized.
+[2021.11.21-17.35.33:478][955]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map_World'.
+[2021.11.21-17.35.33:514][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-17.35.33:514][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.21-17.35.33:524][955]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_World.Map_World up for play (max tick rate 60) at 2021.11.21-18.35.33
+[2021.11.21-17.35.33:531][955]LogWorld: Bringing up level for play took: 0.015894
+[2021.11.21-17.35.33:531][955]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.11.21-17.35.33:537][955]PIE: Server logged in
+[2021.11.21-17.35.33:539][955]PIE: Play in editor total start time 0,189 seconds.
+[2021.11.21-17.35.35:147][ 30]LogRenderer: Reallocating scene render targets to support 1536x800 Format 10 NumSamples 1 (Frame:76).
+[2021.11.21-17.35.56:348][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.21-17.35.56:348][264]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_World
+[2021.11.21-17.35.56:348][264]LogSlate: Window 'Memories of a Spirit Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.21-17.35.56:359][264]LogWorld: UWorld::CleanupWorld for Map_World, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.35.56:366][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.35.56:383][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.21-17.35.56:408][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.35.56:482][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.21-17.35.56:482][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.35.56:484][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.35.56:563][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.21-17.35.56:596][265]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.11.21-17.36.11:460][ 35]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Dev/Caleb/WBP_Text.WBP_Text
+[2021.11.21-17.36.28:422][ 24]BlueprintLog: New page: Compile WBP_Text
+[2021.11.21-17.36.28:471][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.21-17.36.28:559][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dev/Caleb/WBP_Text" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/WBP_Text.uasset" SILENT=true
+[2021.11.21-17.36.28:612][ 24]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/WBP_Text701880FB4C0DAE514707ABA91AE986DF.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Dev/Caleb/WBP_Text.uasset'
+[2021.11.21-17.36.28:638][ 24]AssetCheck: New page: Asset Save: WBP_Text
+[2021.11.21-17.36.28:638][ 24]LogContentValidation: Display: Validating WidgetBlueprint /Game/Dev/Caleb/WBP_Text.WBP_Text
+[2021.11.21-17.36.30:542][134]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.36.30:542][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.36.30:555][134]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.36.30:555][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.36.53:299][488]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.36.54:014][529]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.36.55:573][622]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (FX_Lucioles3)
+[2021.11.21-17.37.03:501][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_TextIndiceTrigger_C (BP_TextIndiceTrigger3)
+[2021.11.21-17.37.19:818][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-17.37.19:866][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.11.21-17.37.22:541][ 63]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World83A5A0374CCF371E8864BAB939328400.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap'
+[2021.11.21-17.37.22:553][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World_BuiltData" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset" SILENT=true
+[2021.11.21-17.37.23:259][ 63]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_BuiltDataF92D89DD4CADE06266C43B9AD5376F3D.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset'
+[2021.11.21-17.37.23:288][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-17.37.23:288][ 63]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_World_BuiltData.Map_World_BuiltData
+[2021.11.21-17.37.23:288][ 63]LogContentValidation: Display: Validating World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.37.50:906][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-17.37.50:950][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.11.21-17.37.53:522][701]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_WorldA1C9F9EE4F7B7552510F18B98CC32F5F.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap'
+[2021.11.21-17.37.53:535][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World_BuiltData" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset" SILENT=true
+[2021.11.21-17.37.54:432][701]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_BuiltData4B8C977A4347F66D8DBF45AE3E2073D9.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset'
+[2021.11.21-17.37.54:465][701]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-17.37.54:466][701]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_World_BuiltData.Map_World_BuiltData
+[2021.11.21-17.37.54:466][701]LogContentValidation: Display: Validating World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.38.15:738][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-17.38.15:776][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.11.21-17.38.18:479][231]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_WorldEC18F7BE411514C26C0A5A843FDC8A6E.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap'
+[2021.11.21-17.38.18:490][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World_BuiltData" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset" SILENT=true
+[2021.11.21-17.38.19:386][231]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_BuiltData9AA2FF24488CE9D887B07A9C3EF7CB04.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset'
+[2021.11.21-17.38.19:417][231]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-17.38.19:417][231]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_World_BuiltData.Map_World_BuiltData
+[2021.11.21-17.38.19:417][231]LogContentValidation: Display: Validating World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.38.26:036][623]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.38.26:664][659]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.21-17.38.27:253][694]LogEditorViewport: Clicking on Actor (LMB): DecalActor (DecalInst_Mask2)
+[2021.11.21-17.38.29:722][834]Cmd: DELETE
+[2021.11.21-17.38.29:751][834]Cmd: ACTOR DELETE
+[2021.11.21-17.38.29:876][834]LogEditorActor: Deleted Actor: DecalActor
+[2021.11.21-17.38.29:912][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.21-17.38.29:914][834]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2021.11.21-17.38.49:765][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.21-17.38.49:802][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.11.21-17.38.53:272][988]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World218DF5814FBD69904F9787AFD31E88AA.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World.umap'
+[2021.11.21-17.38.53:385][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_World_BuiltData" FILE="../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset" SILENT=true
+[2021.11.21-17.38.54:313][988]LogSavePackage: Moving '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Saved/Map_World_BuiltDataE4DA406C43D74354D4584ABC5A8E668D.tmp' to '../../../../../_Game_projects/Unreal/HeritageGJ2021/StarRiteGame_V0/Content/Maps/Map_World_BuiltData.uasset'
+[2021.11.21-17.38.54:334][988]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.21-17.38.54:334][988]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Map_World_BuiltData.Map_World_BuiltData
+[2021.11.21-17.38.54:334][988]LogContentValidation: Display: Validating World /Game/Maps/Map_World.Map_World
+[2021.11.21-17.38.54:966][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.11.21-17.39.09:693][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.11.21-17.40.42:153][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.11.21-17.40.49:996][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.11.21-17.40.50:097][880]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.50:097][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.40.50:360][880]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.21-17.40.50:361][880]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.50:361][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.40.50:929][880]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.21-17.40.50:929][880]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.50:929][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.40.51:041][880]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.21-17.40.51:041][880]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.51:041][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.40.51:119][880]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.21-17.40.51:119][880]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.51:119][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.21-17.40.51:311][880]LogSlate: Window 'StarRiteGame_V0 - Unreal Editor' being destroyed
+[2021.11.21-17.40.52:081][881]Cmd: QUIT_EDITOR
+[2021.11.21-17.40.52:082][881]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.11.21-17.40.52:106][881]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.21-17.40.52:349][881]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.21-17.40.52:349][881]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.21-17.40.52:349][881]LogAudio: Display: Audio Device unregistered from world 'Map_World'.
+[2021.11.21-17.40.52:349][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.40.52:370][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.21-17.40.52:633][881]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.21-17.40.52:633][881]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.21-17.40.52:810][881]LogExit: Preparing to exit.
+[2021.11.21-17.40.53:836][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.11.21-17.40.55:447][881]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:451][881]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:467][881]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:495][881]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:499][881]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:503][881]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:508][881]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:512][881]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:518][881]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:524][881]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:528][881]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:532][881]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:539][881]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:544][881]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:549][881]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:554][881]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.55:557][881]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.56:424][881]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.21-17.40.56:809][881]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.21-17.40.56:828][881]LogExit: Editor shut down
+[2021.11.21-17.40.56:922][881]LogExit: Transaction tracking system shut down
+[2021.11.21-17.41.01:419][881]LogExit: Object subsystem successfully closed.
+[2021.11.21-17.41.01:470][881]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.21-17.41.01:470][881]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.11.21-17.41.01:470][881]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.11.21-17.41.01:470][881]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.21-17.41.01:470][881]LogShaderCompilers: Display: ================================================
+[2021.11.21-17.41.01:506][881]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module UATHelper (884)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module LauncherServices (882)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (880)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module SequencerWidgets (878)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2021.11.21-17.41.01:819][881]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (826)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (824)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module WebMMedia (822)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (820)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (818)
+[2021.11.21-17.41.02:185][881]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (804)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (802)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (800)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (798)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (796)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2021.11.21-17.41.02:186][881]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2021.11.21-17.41.02:187][881]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2021.11.21-17.41.02:187][881]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2021.11.21-17.41.02:201][881]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2021.11.21-17.41.02:201][881]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2021.11.21-17.41.02:201][881]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2021.11.21-17.41.02:201][881]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2021.11.21-17.41.02:201][881]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2021.11.21-17.41.03:773][881]MemoryProfiler: Shutdown
+[2021.11.21-17.41.03:773][881]NetworkingProfiler: Shutdown
+[2021.11.21-17.41.03:773][881]LoadingProfiler: Shutdown
+[2021.11.21-17.41.03:773][881]TimingProfiler: Shutdown
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2021.11.21-17.41.03:773][881]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2021.11.21-17.41.03:774][881]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2021.11.21-17.41.03:808][881]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2021.11.21-17.41.03:943][881]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2021.11.21-17.41.03:943][881]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2021.11.21-17.41.03:943][881]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2021.11.21-17.41.03:943][881]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2021.11.21-17.41.03:943][881]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2021.11.21-17.41.03:943][881]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2021.11.21-17.41.03:943][881]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2021.11.21-17.41.04:074][881]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2021.11.21-17.41.04:075][881]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2021.11.21-17.41.04:076][881]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2021.11.21-17.41.04:076][881]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2021.11.21-17.41.04:076][881]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2021.11.21-17.41.04:076][881]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2021.11.21-17.41.04:087][881]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2021.11.21-17.41.04:206][881]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (566)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (544)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MediaCompositing (542)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module ImgMedia (540)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (538)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (536)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (534)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (532)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (530)
+[2021.11.21-17.41.04:207][881]LogOpenImageDenoise: OIDN shutting down
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (528)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MotoSynth (526)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module MeshConversion (524)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometricObjects (518)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (516)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (514)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (512)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (510)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (509)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (506)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (504)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (502)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (500)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (496)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module FractureEditor (494)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (493)
+[2021.11.21-17.41.04:207][881]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (490)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module BackChannel (480)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (478)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module AutomationUtils (476)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (474)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module PluginBrowser (472)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (470)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (466)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module CryptoKeys (464)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module CurveEditorTools (462)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (460)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2021.11.21-17.41.04:208][881]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2021.11.21-17.41.04:209][881]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2021.11.21-17.41.04:441][881]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2021.11.21-17.41.04:542][881]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2021.11.21-17.41.04:643][881]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2021.11.21-17.41.04:643][881]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2021.11.21-17.41.04:644][881]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2021.11.21-17.41.04:644][881]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2021.11.21-17.41.04:644][881]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2021.11.21-17.41.04:644][881]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2021.11.21-17.41.04:644][881]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2021.11.21-17.41.04:644][881]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2021.11.21-17.41.04:644][881]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2021.11.21-17.41.04:663][881]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2021.11.21-17.41.04:663][881]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2021.11.21-17.41.04:663][881]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2021.11.21-17.41.04:663][881]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2021.11.21-17.41.04:663][881]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module GameplayCameras (318)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.11.21-17.41.04:664][881]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.11.21-17.41.04:893][881]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.11.21-17.41.04:894][881]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.11.21-17.41.04:897][881]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.11.21-17.41.04:907][881]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.11.21-17.41.04:923][881]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.11.21-17.41.04:993][881]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.11.21-17.41.04:993][881]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.11.21-17.41.04:993][881]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.11.21-17.41.04:994][881]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.11.21-17.41.05:000][881]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.11.21-17.41.05:000][881]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.11.21-17.41.05:000][881]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.11.21-17.41.05:000][881]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.11.21-17.41.05:000][881]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.11.21-17.41.05:010][881]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.11.21-17.41.05:014][881]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.11.21-17.41.05:033][881]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.11.21-17.41.05:033][881]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.11.21-17.41.05:033][881]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.11.21-17.41.05:033][881]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.11.21-17.41.05:033][881]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.11.21-17.41.05:096][881]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.11.21-17.41.05:096][881]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.11.21-17.41.05:096][881]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.11.21-17.41.05:096][881]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2021.11.21-17.41.05:097][881]LogHMD: Freeing OpenVRDLLHandle.
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2021.11.21-17.41.05:097][881]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.11.21-17.41.05:097][881]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.11.21-17.41.05:098][881]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.11.21-17.41.05:098][881]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.11.21-17.41.05:098][881]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2021.11.21-17.41.05:098][881]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.11.21-17.41.05:098][881]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.11.21-17.41.05:100][881]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.11.21-17.41.05:100][881]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.11.21-17.41.05:128][881]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.11.21-17.41.05:128][881]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.11.21-17.41.05:128][881]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBAA50D7F-4DD9-D2F6-79A9-93B07CC3C2A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=48b2180345a2a217776865b4245700b2%7Cb50e438e73d74c3abfba3552dcc34840%7Ce12935f4-67c9-46fd-ac85-a63e48c9e85c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.11.21-17.41.05:128][881]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.11.21-17.41.05:174][881]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.11.21-17.41.05:176][881]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.11.21-17.41.05:178][881]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module MLSDK (68)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.11.21-17.41.05:179][881]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.11.21-17.41.05:180][881]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.11.21-17.41.05:181][881]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.11.21-17.41.05:181][881]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.11.21-17.41.05:181][881]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.11.21-17.41.05:181][881]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.11.21-17.41.05:281][881]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.11.21-17.41.05:281][881]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.11.21-17.41.05:285][881]LogD3D11RHI: Shutdown
+[2021.11.21-17.41.05:285][881]LogD3D11RHI: CleanupD3DDevice
+[2021.11.21-17.41.05:387][881]LogExit: Exiting.
+[2021.11.21-17.41.05:407][881]Log file closed, 11/21/21 18:41:05
